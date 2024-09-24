@@ -1,0 +1,1 @@
+Exploratory Data analysis of a time series data of bicycle counts on Seattle’s Fremont Bridge. The dataset was taken from https://data.seattle.gov/Transportation/Fremont-Bridge-Bicycle-Counter/65db-xm6k/about_data
